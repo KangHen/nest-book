@@ -34,6 +34,11 @@ Dependencies watch on this Project
 - Swagger
 - Nest Js Config
 
+## Try Swagger
+```bash
+http://localhost:3000/api
+```
+
 ## Compile and run the project
 
 ```bash
